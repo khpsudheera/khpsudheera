@@ -17,7 +17,7 @@ Welcome to my GitHub corner!
 - [Excel Project – Data Analytics using Excel](https://github.com/khpsudheera/1.Data-analytics-using-Excel)
 - [SQL Project – Analytics using SQL](https://github.com/khpsudheera/2.-Analytics-using-SQL)
 - [Python Project – Introduction to Programming](https://github.com/khpsudheera/3.-Intro-to-Programming-using-Python)
-- [EDA using Python – Data Science](https://github.com/khpsudheera/4.-Python-for-Data-science)
+- [Exploratory Data Analysis using Python – Data Science](https://github.com/khpsudheera/4.-Python-for-Data-science)
 - [Exploratory Data Analysis using Tableau](https://github.com/khpsudheera/6.Exploratory-Data-analysis-using-Tableau)
 - [Interactive Dashboards using Tableau](https://github.com/khpsudheera/7.Design-interactive-dashboards-using-Tableau)
 - [Statistics using Python](https://github.com/khpsudheera/8.Statistics-using-python)
