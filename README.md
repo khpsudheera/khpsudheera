@@ -9,7 +9,7 @@ Welcome to my GitHub corner!
 -  Currently strengthening my business analysis and dashboarding skills.
 
 # 📫 Reach out to me:
-[LinkedIn](www.linkedin.com/in/konduri-haripriyasudheera)
+[LinkedIn]((https://www.linkedin.com/in/konduri-haripriyasudheera))
 
 # My Projects
 
