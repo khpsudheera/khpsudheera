@@ -9,11 +9,12 @@ Welcome to my GitHub corner!
 -  Currently strengthening my business analysis and dashboarding skills.
 
 # 📫 Reach out to me:
-[LinkedIn]((https://www.linkedin.com/in/konduri-haripriyasudheera))
+[LinkedIn](https://www.linkedin.com/in/konduri-haripriyasudheera)
 
 # My Projects
 
 - [Football Data Analytics – Excel, SQL, Python (EDA), Tableau, Statistics, Machine Learning](https://github.com/khpsudheera/0.Final-Capstone-Project)
+- [Power BI - Data Transformations](https://github.com/khpsudheera/PowerBI)
 - [Excel Project – Data Analytics using Excel](https://github.com/khpsudheera/1.Data-analytics-using-Excel)
 - [SQL Project – Analytics using SQL](https://github.com/khpsudheera/2.-Analytics-using-SQL)
 - [Python Project – Introduction to Programming](https://github.com/khpsudheera/3.-Intro-to-Programming-using-Python)
