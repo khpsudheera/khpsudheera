@@ -5,7 +5,7 @@ Welcome to my GitHub corner!
 ## About Me
 -  Business Analyst transitioning from a Data Analyst role in the insurance domain.
 -  Interested in understanding business problems and turning data into clear insights.
--  I work with Excel, SQL, Tableau, and Python (EDA) for analysis and reporting.
+-  I work with Excel, SQL,PowerBI, Tableau, and Python (EDA) for analysis and reporting.
 -  Currently strengthening my business analysis and dashboarding skills.
 
 # 📫 Reach out to me:
