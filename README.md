@@ -3,10 +3,13 @@
 Welcome to my GitHub corner!
 
 ## About Me
--  Business Analyst transitioning from a Data Analyst role in the insurance domain.
+-  AI Product Owner transitioning from a Data Analyst role in the insurance domain.
 -  Interested in understanding business problems and turning data into clear insights.
--  I work with Excel, SQL,PowerBI, Tableau, and Python (EDA) for analysis and reporting.
--  Currently strengthening my business analysis and dashboarding skills.
+-  I work with Excel, SQL, PowerBI, and Python for analysis and reporting.
+-  Currently Volunteering as a Product Owner at PML School.
+-  Core user problems and Jobs-To-Be-Done (JTBD), User journeys and first-value friction points, Market positioning and competitor landscape analysis, Feature differentiation and product prioritization, Product metrics, monetization models, and North Star frameworks.
+-  Currently, I am part of the AI-Powered Certified Agile Product Owner (CAPO) program, where I am building hands-on experience creating product artifacts such as PRDs, product roadmaps, backlog prioritization, and GTM strategies using AI-driven product decision frameworks.
+
 
 # 📫 Reach out to me:
 [LinkedIn](https://www.linkedin.com/in/konduri-haripriyasudheera)
