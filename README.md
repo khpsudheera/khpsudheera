@@ -22,3 +22,4 @@ Welcome to my GitHub corner!
 - [Exploratory Data Analysis using Tableau](https://github.com/khpsudheera/6.Exploratory-Data-analysis-using-Tableau)
 - [Interactive Dashboards using Tableau](https://github.com/khpsudheera/7.Design-interactive-dashboards-using-Tableau)
 - [Statistics using Python](https://github.com/khpsudheera/8.Statistics-using-python)
+- [Zomato Product Teardown](https://drive.google.com/drive/u/0/folders/1skYAdl93VoOUchwyydBoPpnlcJth89rM)
